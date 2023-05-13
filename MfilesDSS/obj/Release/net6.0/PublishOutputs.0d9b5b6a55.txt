@@ -1,0 +1,16 @@
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\MfilesDSS.exe
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\MfilesDSS.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\MfilesDSS.deps.json
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\MfilesDSS.runtimeconfig.json
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\MfilesDSS.pdb
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\System.Text.Encodings.Web.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\System.Text.Json.dll
+C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\obj\Release\net6.0\PubTmp\Out\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
