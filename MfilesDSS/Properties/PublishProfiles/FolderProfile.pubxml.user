@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Matthews Namanda\Desktop\MfilesDSS\MfilesDSS\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-05-13T12:30:21.4575645Z;</History>
+    <_PublishTargetUrl>C:\Users\Matthews Namanda\Desktop\Mfiles-DSS-API-FOR-Corporate\MfilesDSS\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-15T09:25:32.8449543Z;True|2023-05-13T15:30:21.4575645+03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

@@ -15,33 +15,14 @@ namespace MfilesDSS.Services
             {
                 WebClient myWebClient = new WebClient();
                 myWebClient.DownloadFile(root.filedonwloadLink, filepath);
-                var classIds = new[] {
-  54
- };
+                
 
                 string useremail = "";
                 int fileid = 0;
                 // Create our search conditions.
                 var searchConditions = new SearchConditions();
                 // Add a class filter.
-                {
-                    // Create the condition.
-                    var condition = new SearchCondition();
-
-                    // Set the expression.
-                    condition.Expression.SetPropertyValueExpression((int)MFBuiltInPropertyDef.MFBuiltInPropertyDefClass,
-                        MFParentChildBehavior.MFParentChildBehaviorNone);
-
-                    // Set the condition.
-                    condition.ConditionType = MFConditionType.MFConditionTypeEqual;
-
-                    // Set the value.
-                    condition.TypedValue.SetValue(MFilesAPI.MFDataType.MFDatatypeLookup,
-                        classIds);
-
-                    // Add the condition to the collection.
-                    searchConditions.Add(-1, condition);
-                }
+           
                 // Add a "not deleted" filter.
                 {
                     // Create the condition.

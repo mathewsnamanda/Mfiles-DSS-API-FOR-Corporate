@@ -498,11 +498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matthews Namanda\\Desktop\\MfilesDSS\\MfilesDSS\\MfilesDSS.csproj",
+      "projectUniqueName": "C:\\Users\\Matthews Namanda\\Desktop\\Mfiles-DSS-API-FOR-Corporate\\MfilesDSS\\MfilesDSS.csproj",
       "projectName": "MfilesDSS",
-      "projectPath": "C:\\Users\\Matthews Namanda\\Desktop\\MfilesDSS\\MfilesDSS\\MfilesDSS.csproj",
+      "projectPath": "C:\\Users\\Matthews Namanda\\Desktop\\Mfiles-DSS-API-FOR-Corporate\\MfilesDSS\\MfilesDSS.csproj",
       "packagesPath": "C:\\Users\\Matthews Namanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matthews Namanda\\Desktop\\MfilesDSS\\MfilesDSS\\obj\\",
+      "outputPath": "C:\\Users\\Matthews Namanda\\Desktop\\Mfiles-DSS-API-FOR-Corporate\\MfilesDSS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matthews Namanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
